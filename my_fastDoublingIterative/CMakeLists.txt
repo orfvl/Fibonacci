@@ -1,0 +1,2 @@
+add_library(my_fastDoublingIterative my_fastDoublingIterative.h my_fastDoublingIterative.cpp)
+set_target_properties(my_fastDoublingIterative PROPERTIES LINKER_LANGUAGE CXX)

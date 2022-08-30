@@ -1,0 +1,2 @@
+add_library(fastDoublingRec fastDoublingRec.h fastDoublingRec.cpp)
+set_target_properties(fastDoublingRec PROPERTIES LINKER_LANGUAGE CXX)

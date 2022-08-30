@@ -1,0 +1,188 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "simpleFIB",
+					"jsonFile" : "directory-simpleFIB-Debug-8d2a7aa19b5c2f44042b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "simpleFIB",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "fastDoublingIterative",
+					"jsonFile" : "directory-fastDoublingIterative-Debug-922d762a1cb2bef03a8b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "fastDoublingIterative",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "fastDoublingRecursive",
+					"jsonFile" : "directory-fastDoublingRecursive-Debug-3ee8a4bf768deca2a03c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "fastDoublingRecursive",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "my_fastDoublingIterative",
+					"jsonFile" : "directory-my_fastDoublingIterative-Debug-826d317ec3ece3a31efb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "my_fastDoublingIterative",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "explicitFib",
+					"jsonFile" : "directory-explicitFib-Debug-68f17b329fc9f5f8e090.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "explicitFib",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "fibonacci",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 5,
+					"id" : "explicitFib::@b3fdcfdeb90083f701c3",
+					"jsonFile" : "target-explicitFib-Debug-beca1a1ef91cdafd420b.json",
+					"name" : "explicitFib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fastDoublingIterative::@51234b55362dc549cb5c",
+					"jsonFile" : "target-fastDoublingIterative-Debug-21096d6c5d2b61e85e89.json",
+					"name" : "fastDoublingIterative",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "fastDoublingRec::@b8e33da081e650bfecf7",
+					"jsonFile" : "target-fastDoublingRec-Debug-ad12ae438b35f01e28fd.json",
+					"name" : "fastDoublingRec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-1b74e308f05209e318f1.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "my_fastDoublingIterative::@4c7ba0cc0ee65daff224",
+					"jsonFile" : "target-my_fastDoublingIterative-Debug-26ede262955853cd2678.json",
+					"name" : "my_fastDoublingIterative",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "simpleFIB::@4120e9e8c1b100f06cf3",
+					"jsonFile" : "target-simpleFIB-Debug-1fe1ef2a906752face84.json",
+					"name" : "simpleFIB",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oscar/Documents/Informatik/Fibonacci/build",
+		"source" : "/home/oscar/Documents/Informatik/Fibonacci"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
