@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcountZeros.a CMakeFiles/countZeros.dir/func.cpp.o
-/usr/bin/ranlib libcountZeros.a
