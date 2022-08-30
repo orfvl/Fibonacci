@@ -1,2 +1,0 @@
-/usr/bin/ar qc libexplicitFib.a CMakeFiles/explicitFib.dir/explicitFib.cpp.o
-/usr/bin/ranlib libexplicitFib.a

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libfastDoublingIterative.a CMakeFiles/fastDoublingIterative.dir/fastDoublingIterative.cpp.o
-/usr/bin/ranlib libfastDoublingIterative.a

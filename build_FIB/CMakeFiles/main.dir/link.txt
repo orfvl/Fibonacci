@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/main.dir/main.cpp.o -o main  simpleFIB/libsimpleFIB.a fastDoublingIterative/libfastDoublingIterative.a fastDoublingRecursive/libfastDoublingRec.a my_fastDoublingIterative/libmy_fastDoublingIterative.a explicitFib/libexplicitFib.a /usr/local/lib/libbenchmark.a /usr/local/lib/libbenchmark_main.a /usr/local/lib/libbenchmark.a -lrt 

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libfastDoublingRec.a CMakeFiles/fastDoublingRec.dir/fastDoublingRec.cpp.o
-/usr/bin/ranlib libfastDoublingRec.a
