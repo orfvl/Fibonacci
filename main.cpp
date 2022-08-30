@@ -84,19 +84,6 @@ BENCHMARK(bm_explicitFib);
 BENCHMARK_MAIN();
 
 
-/*
-int main()
-{
 
-    
-     
-    for (int i = 1; i < 10; i++)
-    {
-        cout << i << ": "<<  fastfibIter(i)  << "; " << my_fastfibIter(i)  << "; " << fastDoublingRec(i)<< "\n";
-    }
-   
-    
-}
-*/
 //perf record -g ./main
 //perf report -g "graph,0.5,caller"
